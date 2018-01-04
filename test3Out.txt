@@ -1,4 +1,0 @@
-Relation: 
-A , B , C , D
-FDs: 
-A -> C , D , B ; 
