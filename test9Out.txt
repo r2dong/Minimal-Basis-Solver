@@ -1,0 +1,6 @@
+Relation: 
+A , B , C , D , E , F
+FDs: 
+A -> B , C ; 
+B , C -> D , E ; 
+E -> F , A ; 

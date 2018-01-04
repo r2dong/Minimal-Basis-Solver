@@ -1,0 +1,11 @@
+Relation:
+
+B , O , I , S , P , Q , D , M , L
+
+FDs:
+
+S , D -> P ;
+I -> B ;
+I , S -> Q ;
+B -> O ;
+M -> L ;
