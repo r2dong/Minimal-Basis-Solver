@@ -18,4 +18,3 @@ Attribute names are arbitary
 In a terminal or command prompt, type 
 
     cabal run inputFileName
-    我就想看看会不会有什么变化
