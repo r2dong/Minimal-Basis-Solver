@@ -1,5 +1,8 @@
 Minimal Basis Solver
 ===
+### Contributors
+r2dong (rentian-dong@uiowa.edu)
+Qiansan (xinyu-qian@uiowa.edu)
 ### Overview
 A minimal basis solver for relational databases is implemented using Haskell. Input are files which will be parsed using
 Alex and Happy, and output (the computed minimal basis) is written to a file as well.
