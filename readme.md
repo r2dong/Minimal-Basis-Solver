@@ -16,4 +16,5 @@ Alex and Happy, and output (the computed minimal basis) is written to a file as 
 >
   -- Attribute names are arbitary
 * ##### Running the Program
-In a terminal or command prompt, type "cabal run inputFileName"
+In a terminal or command prompt, type 
+> cabal run inputFileName
