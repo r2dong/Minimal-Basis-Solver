@@ -12,7 +12,7 @@ Alex and Happy, and output (the computed minimal basis) is written to a file as 
     >
     > R1 , R2 -> R3 , R4 ;
     > R2 -> R4 ;
-    Attribute names are arbitary
+Attribute names are arbitary
 ### Running the Program
 In a terminal or command prompt, type 
 > cabal run inputFileName
